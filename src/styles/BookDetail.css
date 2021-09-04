@@ -1,0 +1,69 @@
+.book-detail {
+    display: flex;
+    background-color: #E8E8E8;
+    min-width: 50%;
+    max-width: 60%;
+    align-self: center;
+    
+    flex-direction: column;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 10px;
+}
+
+.head-section{
+    display: flex;
+    justify-content: space-between;
+    background-color: #E8E8E8;
+}
+
+.head-section > div  {
+    background-color: #E8E8E8;
+}
+
+.head-section > div > button {
+    background-color: #525252;
+    color: white;
+    padding: 0.3rem 0.6rem;
+    border: none;
+    border-radius: 8px;
+}
+
+.head-section > div > button:hover {
+    filter: brightness(120%);
+}
+
+.head-section > div > p {
+    /*text-align:start;*/
+    font-size: 1.3rem;
+    font-weight: bold;
+    background-color: #E8E8E8;
+}
+
+.book-detail > div {
+    display: flex;
+    flex-direction: row;
+    padding-top: 0.8rem;
+    background-color: #E8E8E8;
+}
+
+.book-img {
+    width: 26%;
+    height: 80%;
+}
+
+.book-text-detail {
+    padding-left: 0.8rem;
+    background-color: #E8E8E8;
+}
+
+.book-text-detail > p {
+    margin-bottom: 0.1rem;
+    font-size: 1.1rem;
+    background-color: #E8E8E8;
+    word-break: break-all;
+}
+
+.book-text-detail > p > b {
+    background-color: #E8E8E8;
+}
