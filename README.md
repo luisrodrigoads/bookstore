@@ -6,8 +6,10 @@ Atividade desenvolvida em React para a disciplina de Frameworks Web da faculdade
 
 No diretório do projeto rodar
 
-### 'npm install'
-### 'npm start
+### `npm install`
+### `npm start`
+
+Projeto estará disponível em: [http://localhost:3000](http://localhost:3000)
 
 Foram aplicados conceitos como:
 
