@@ -2,6 +2,8 @@
 
 Atividade desenvolvida em React para a disciplina de Frameworks Web da faculdade.
 
+Ver projeto rodando: https://bookstore-jade.vercel.app/
+
 ## Instalação
 
 No diretório do projeto rodar
